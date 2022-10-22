@@ -1,2 +1,2 @@
 
-[Replit Link](https://replit.com/@gidayensu/GuessGame#index.js)
+[Replit Link](https://replit.com/@gidayensu/GuessGame#guessgame.js)
